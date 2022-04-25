@@ -21,7 +21,6 @@ class CCAKitViewerv05Dlg : public CDialogEx
 public:
 	CCAKitViewerv05Dlg(CWnd* pParent = nullptr);	// 표준 생성자입니다.
 
-	void haha();
 	void Camera_in();
 	BOOL bReturn;
 	BOOL bFail;
