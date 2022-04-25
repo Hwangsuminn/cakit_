@@ -427,12 +427,6 @@ void CCAKitViewerv05Dlg::OnBnClickedButton2()
 	bReturn = TRUE;
 }
 
-
-void CCAKitViewerv05Dlg::haha()
-{
-	cout<<"hahahaha"<<endl;
-}
-
 void CCAKitViewerv05Dlg::Camera_in()
 {
 	INT index;
